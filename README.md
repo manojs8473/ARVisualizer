@@ -1,3 +1,4 @@
+Explained at: https://www.ittybittyapps.com/blog/2018-12-03-visualizing-arkit-sessions/
 # <img src="Assets/icon@2x.png" alt="AR Visualizer icon" width="32" height="32"> AR Visualizer
 
 [<img src="Assets/example-scan-small.jpg" alt="Example of a point cloud scanned from a room" width="440">](Assets/example-scan-large.jpg) [<img src="Assets/example-room-small.jpg" alt="Photo of the scanned room" width="440">](Assets/example-room-large.jpg)
