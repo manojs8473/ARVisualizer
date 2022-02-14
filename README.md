@@ -1,15 +1,3 @@
-For error "NSNetServicesErrorDomain Code=-72008"
-
-Fix: add the following to info.plist file:
-
-<key>NSLocalNetworkUsageDescription</key>
-<string>Reason for using Bonjour that the user can understand</string>
-<key>NSBonjourServices</key>
-<array>
-    <string>_iba-ar-viz._tcp</string>
-    <string>_iba-ar-viz._udp</string>
-</array>
-
 Explained at: https://www.ittybittyapps.com/blog/2018-12-03-visualizing-arkit-sessions/
 # <img src="Assets/icon@2x.png" alt="AR Visualizer icon" width="32" height="32"> AR Visualizer
 
